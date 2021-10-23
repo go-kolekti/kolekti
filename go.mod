@@ -1,4 +1,4 @@
-module trellis.tech/go-kolekti/kolekti
+module trellis.tech/kolekti.v0
 
 go 1.16
 
